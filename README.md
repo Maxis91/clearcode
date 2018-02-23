@@ -1,6 +1,6 @@
-# CleanCode
+# CleanCode [![Build Status](https://travis-ci.org/Maxis91/clearcode.svg?branch=master)](https://travis-ci.org/Maxis91/clearcode)
 
-Cours sur la qualité du code.
+Cours sur la qualité du code. 
 
 ## Image Docker
 
